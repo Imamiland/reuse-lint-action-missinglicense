@@ -14,7 +14,9 @@ This repository is part of the testing infrastructure of the [reuse-lint-action]
 
 ## REUSE Compliance
 
-This repository is the REUSE _compliant_ repository. That is to say that this repository complies with the [REUSE Specification - Version 3.2](https://reuse.software/spec-3.2/).
+This repository is the REUSE _noncompliant_ repository. That is to say that this repository does not comply with the [REUSE Specification - Version 3.2](https://reuse.software/spec-3.2/). The nature of the noncompliance is:
+
+- Missing `LICENSES` directory.
 
 ## Further Reading
 
